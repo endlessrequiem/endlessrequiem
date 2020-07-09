@@ -4,28 +4,28 @@ Hi! My name is Austin White, I am an Alumni of CSU Stanislaus (Class of 2020). A
 
 # Skills
 ## Languages 
-*Java 
-*Kotlin 
-*HTML 
-*CSS 
-*JavaScript
+* Java 
+* Kotlin 
+* HTML 
+* CSS 
+* JavaScript
 
 ## Frameworks 
-*Android
+* Android
 
 ## Tools 
-*Photoshop 
-*Git 
-*Xcode 
-*Android Studio 
-*IntelliJ 
-*Visual Studio Code
+* Photoshop 
+* Git 
+* Xcode 
+* Android Studio 
+* IntelliJ 
+* Visual Studio Code
 
 ## OS 
-*Ubuntu 
-*MacOS
+* Ubuntu 
+* MacOS
 
 ## Cloud 
-*Firebase 
-*Google Cloud 
-*Amazon Web Services
+* Firebase 
+* Google Cloud 
+* Amazon Web Services
