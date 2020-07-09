@@ -43,6 +43,6 @@ Hi! My name is Austin White, I am an Alumni of CSU Stanislaus (Class of 2020). A
 * Handled all event logistics; this included website development (full stack), meeting with campus safety officials, booking space, ordering food, contacting and meeting with potential sponsors, designing swag, and ordering any necessary supplies.
 
 ## Organizer of GDG Cloud Turlock (Current)
-* Worked with the Google Developers program to run a Google CLoud Developers Group in Turlock, CA.
+* Worked with the Google Developers program to run a Google Cloud Developers Group in Turlock, CA.
 * Held workshops that focused on Android, Cloud, and Machine Learning (Tensorflow) Development.
 * Collaborated with developers from the area to hold workshops on various subjects, including Salesforce tools, the R Programming language, and C#.
