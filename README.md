@@ -35,6 +35,7 @@ better. On the technical side, the project was built using AWS Lex with an Ubunt
 host the website. The website used the Materialize CSS framework for design. This project is a promising introduction to
 chatbots be used widely for both online and in-person classes the CSU Stanislaus campus. 
          
+![alt text](https://res.cloudinary.com/deflyzun6/image/upload/v1570388178/portfolio/IMG_1468_nidmh2.jpg "Me at Box Works")
 
 
 # Skills
