@@ -11,7 +11,9 @@ As the President of the Computer Science Club, I wanted to push myself to repres
 on some of the biggest hackathon stages I could find. Most notably, I've competed at UC Berkeley's CalHacks (October, 2019), University
 of Southern California's HackSC (April, 2019), and the TechCruch Disrupt SF Hackathon (October, 2019). Competing at such a 
 high level has made me into a better developer by showing me how to develop quality products quickly. To my credit, I do have a 
-victory to my name, I won "Best Use of SnapKit" after competing for the first time at HackMerced (March 2019). 
+victory to my name, I won "Best Use of SnapKit" after competing for the first time at HackMerced (March 2019). In April 2020, I moved StanHacks online, since the 
+COVID-19 pandemic had forced everything to shut down. The virtual edition of StanHacks saw 230 total participants, which was amassive increase from the 20 we had 
+the previous year's in-person event. 
 
 As a Google Cloud Developer Group and DSC Lead, I worked with Google to run both a club on campus, and bring 
 together the local tech community in Turlock; which is what I did with GDG Cloud Turlock. Through this, I was able to have the resources
