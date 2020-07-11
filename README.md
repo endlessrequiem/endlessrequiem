@@ -18,6 +18,9 @@ victory to my name, I won "Best Use of SnapKit" after competing for the first ti
 COVID-19 pandemic had forced everything to shut down. The virtual edition of StanHacks saw 230 total participants, which was amassive increase from the 20 we had 
 the previous year's in-person event. 
 
+![alt text](https://res.cloudinary.com/deflyzun6/image/upload/v1570388179/portfolio/IMG_6259_ssnuw3.jpg "Me at TC Disrupt")
+
+
 As a Google Cloud Developer Group and DSC Lead, I worked with Google to run both a club on campus, and bring 
 together the local tech community in Turlock; which is what I did with GDG Cloud Turlock. Through this, I was able to have the resources
 to host weekly technical workshops; and in the Fall 2019 semester, I hosted weekly workshops from early September to Early December.
