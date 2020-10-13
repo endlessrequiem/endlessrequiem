@@ -56,6 +56,8 @@ chatbots be used widely for both online and in-person classes the CSU Stanislaus
 * Android Studio 
 * IntelliJ 
 * Visual Studio Code
+* SQLite
+* Retrofit
 
 ## OS 
 * Ubuntu 
