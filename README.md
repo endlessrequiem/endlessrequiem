@@ -1,7 +1,7 @@
 # About me
 Hi! My name is Austin White, I am an Alumni of CSU Stanislaus (Class of 2020). As a Android Developer, I have 2 years of experience with Java and Kotlin, and I have published 5 apps to the Google Play Store. As CS Club President, I brought the first hackathon to the CSU Stanislaus Campus. Bringing together the first real organized CS community that the campus had ever seen; I also won the award for Most Improved Club From California State University, Stanislaus. Outside of CS, I enjoy writing, I'm currently working on a poetry book that I hope to publish in the future.
 
-  <img src="https://res.cloudinary.com/deflyzun6/image/upload/v1571761981/portfolio/IMG_5283_dqhnai.jpg" alt="Me at Google" style='height: auto; width: 50%; align: center'>
+  <img src="https://res.cloudinary.com/deflyzun6/image/upload/v1571761981/portfolio/IMG_5283_dqhnai.jpg" alt="Me at Google" style='height: auto; width: 50%; justify-content: center'>
 
 
 I started doing Android Development right after my first programming course. I wanted to see what 
