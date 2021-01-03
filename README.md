@@ -58,6 +58,10 @@ chatbots be used widely for both online and in-person classes the CSU Stanislaus
 * Visual Studio Code
 * SQLite
 * Retrofit
+* Espresso
+* JUnit
+* Mockito
+* Dagger
 
 ## OS 
 * Ubuntu 
@@ -67,6 +71,7 @@ chatbots be used widely for both online and in-person classes the CSU Stanislaus
 * Firebase 
 * Google Cloud 
 * Amazon Web Services
+* Azure
 
 # Leadership Experience
 ## President of Computer Science Club/Developer Student Club (Nov. 2018 - May 2020)
