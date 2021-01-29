@@ -46,7 +46,7 @@ chatbots be used widely for both online and in-person classes the CSU Stanislaus
 * CSS 
 * JavaScript
 
-## Frameworks 
+## Platforms 
 * Android
 
 ## Tools 
