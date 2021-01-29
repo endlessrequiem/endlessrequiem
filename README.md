@@ -53,14 +53,12 @@ chatbots be used widely for both online and in-person classes the CSU Stanislaus
 * Git 
 * Xcode 
 * Android Studio 
-* IntelliJ 
-* Visual Studio Code
 * SQLite
 * Retrofit
 * Espresso
 * JUnit
 * Mockito
-* Dagger
+* Dagger/Hilt
 
 ## OS 
 * Ubuntu 
