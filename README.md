@@ -19,7 +19,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * Axios
 * Jotai
 
-## Experience 👨‍💻
+## Experience 👷
 
 ### Software Engineer II @ SmartRent 
 #### Feb 2025 to April 2025
