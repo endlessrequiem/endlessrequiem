@@ -4,26 +4,22 @@
 I am a Software Engineer with a strong track record of building high-quality mobile applications that enhance user experience and deliver measurable impact. I've led and contributed to critical projects from concept to deployment, consistently driving improvements in performance, usability, and reliability. I thrive on solving complex technical challenges and am passionate about using technology to create innovative, user-centered solutions.
 
 ## Skills
-<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
-<ul style="margin: 0;">
-<li>TypeScript</li>
-<li>Kotlin</li>
-<li>JavaScript</li>
-<li>Java</li>
-<li>Git</li>
-<li>React Native</li>
-<li>Android SDK</li>
-<li>Android App Widgets</li>
-<li>Android WorkManager</li>
-<li>XML</li>
-<li>Firebase</li>
-<li>Yarn</li>
-<li>Jest</li>
-<li>Retrofit</li>
-<li>Axios</li>
-<li>Jotai</li>
-</ul>
-</div>
+* TypeScript
+* Kotlin
+* JavaScript
+* Java
+* Git
+* React Native
+* Android SDK
+* Android App Widgets
+* Android WorkManager
+* XML
+* Firebase
+* Yarn
+* Jest
+* Retrofit
+* Axios
+* Jotai
 
 ## Experience
 
