@@ -23,18 +23,21 @@ I am a Software Engineer with a strong track record of building high-quality mob
 
 ## Experience
 
-### Software Engineer II @ SmartRent
+### Software Engineer II @ SmartRent 
+#### Feb 2025 to April 2025
 * Designed and documented (via RFC) a system for authenticating Native Android Widgets with the React Native app, establishing a framework for secure user session and access control management
 * Led the development of interactive IoT device control Android Widgets for Smart Locks and Thermostats, enabling users to quickly and directly adjust settings and monitor device status from their home screen
 * Engineered an in-house Native Android solution for secure storage of sensitive user data, replacing a problematic third-party package that caused unintended user logouts
 
-### Software Engineer I @ SmartRent
+### Software Engineer I @ SmartRent 
+#### Aug 2022 to Feb 2025
 * Led projects to implement Community-focused features for the SmartRent Resident App, including Package Management, Amenity Reservations, and Community Broadcasts
 * Led the planning and implementation of infrastructure for language localization in the app, while adding support for both English and Spanish languages to improve user experience
 * Developed and implemented Firebase analytics for the app, providing detailed insights into user behavior and app usage patterns
 * Ranked in the top 10% of performers in the Engineering department in the 2024 year-end review, earning the designation of 'key-performer' for consistently delivering high-quality code and demonstrating a strong receptiveness to feedback.
 
-### Junior Software Engineer @ SmartRent
+### Junior Software Engineer @ SmartRent 
+#### March 2021 to Aug 2022
 * Drove a significant improvement in average app rating (from 2.1 to 4.2) by strategically deploying in-app review prompts, resulting in increased user satisfaction and positive app store feedback
 * Prepared the SmartRent Resident App for international expansion by implementing an international environment specifically to accommodate GDPR requirements, enabling the app to launch in European markets.
 * Implemented user interfaces from wireframes, ensuring alignment with design guidelines
