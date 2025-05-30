@@ -18,6 +18,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * Retrofit
 * Axios
 * Jotai
+* React Hooks
 
 ## Experience 👷
 
