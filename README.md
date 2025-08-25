@@ -20,6 +20,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * Jotai
 * React Hooks
 * Cursor
+* GitHub Copilot
 
 ## Experience 👷
 
