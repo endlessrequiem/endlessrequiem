@@ -8,6 +8,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * Java
 * Git
 * React Native
+* React
 * Android SDK
 * Android App Widgets
 * Android WorkManager
@@ -21,6 +22,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * React Hooks
 * Cursor
 * GitHub Copilot
+* GitHub Actions
 
 ## Experience 👷
 
