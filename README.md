@@ -9,6 +9,8 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * Git
 * React Native
 * React
+* HTML
+* CSS
 * Android SDK
 * Android App Widgets
 * Android WorkManager
