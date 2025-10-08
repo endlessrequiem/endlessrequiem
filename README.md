@@ -1,4 +1,4 @@
-## About Me 👨‍💻📲
+## About Me
 I am a Software Engineer with a strong track record of building high-quality mobile applications that enhance user experience and deliver measurable impact. I've led and contributed to critical projects from concept to deployment, consistently driving improvements in performance, usability, and reliability. I thrive on solving complex technical challenges and am passionate about using technology to create innovative, user-centered solutions.
 
 ## Skills 🛠️
@@ -24,7 +24,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * GitHub Copilot
 * GitHub Actions
 
-## Experience 👷
+## Experience
 
 ### Software Engineer II @ SmartRent 
 #### Feb 2025 to April 2025
@@ -47,7 +47,7 @@ I am a Software Engineer with a strong track record of building high-quality mob
 * Implemented deep links for resident account registration, enhancing app onboarding and leveraging deep links to improve user retention
 * Contributed to the rewrite of the SmartRent Resident app in React Native using TypeScript, enabling the integration of in-house design system components for a unified user experience across all company products
 
-## Education 🧑‍🎓
+## Education
 
 ### California State University, Stanislaus
 Bachelor of Arts in English, Class of 2020
